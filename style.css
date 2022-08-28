@@ -132,7 +132,9 @@ body{
     display: none;
 }
 
-
+span{
+    color: gold;
+}
 
 /* movie result */
 .result-container{
